@@ -21,11 +21,11 @@ pip install SpeechRecognition pyttsx3 PyAudio
 
 Clone the repository:
 git clone https://github.com/Aravindhaloshan/speech-recognition-and-text-to-speech-project.git
-cd speech-recognition-tts
+cd speech recognition
 
 ## Usage
 Run the script:
-python speech_recognition.py
+Speech Recognition.ipynb
 
 ## Follow the prompts:
 
